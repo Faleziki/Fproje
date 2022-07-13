@@ -1,3 +1,4 @@
 # Fproje
 falez iki ilk projeler
-InsertionSort
+InsertionSort ödevi
+
